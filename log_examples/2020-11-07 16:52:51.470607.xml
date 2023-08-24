@@ -1,0 +1,30 @@
+<prediction>
+    <folder>pipeline</folder>
+    <filename>car_parking.mp4</filename>
+    <path>/home/enmariotti/pipeline/dev/car_parking.mp4</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>720</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <frame>
+        <frame_number>14</frame_number>
+        <object>
+            <name>licence_plate</name>
+            <pose>Unspecified</pose>
+            <truncated>0</truncated>
+            <difficult>0</difficult>
+            <bndbox>
+                <xmin>277</xmin>
+                <ymin>306</ymin>
+                <xmax>378</xmax>
+                <ymax>390</ymax>
+                <plate>ECSIR</plate>
+            </bndbox>
+        </object>
+    </frame>
+</prediction>

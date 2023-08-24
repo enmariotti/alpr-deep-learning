@@ -1,0 +1,30 @@
+<prediction>
+    <folder>pipeline</folder>
+    <filename>2.jpg</filename>
+    <path>/home/enmariotti/pipeline/dev/mercosur/normal/2.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1200</width>
+        <height>1210</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <frame>
+        <frame_number>None</frame_number>
+        <object>
+            <name>licence_plate</name>
+            <pose>Unspecified</pose>
+            <truncated>0</truncated>
+            <difficult>0</difficult>
+            <bndbox>
+                <xmin>340</xmin>
+                <ymin>818</ymin>
+                <xmax>700</xmax>
+                <ymax>916</ymax>
+                <plate>AAOOGAA</plate>
+            </bndbox>
+        </object>
+    </frame>
+</prediction>
